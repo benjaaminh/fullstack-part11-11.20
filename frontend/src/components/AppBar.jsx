@@ -28,7 +28,7 @@ const AppBar = ({ user }) => {
                 (
                     <Pressable>
                         <Link to="/home">
-                            <Text style={styles.text}>Home</Text>
+                            <Text style={styles.text}>Home!</Text>
                         </Link>
                     </Pressable>
                 )
