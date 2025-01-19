@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
 const AppBar = ({ user }) => {
     return (
         <View style={styles.container}>
-            <Text style={styles.text}>Temporary</Text>
+            <Text style={styles.text}>To be deleted in the next release</Text>
             {user &&
                 (
                     <Pressable>
